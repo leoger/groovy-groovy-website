@@ -96,6 +96,7 @@ documentation {
     }
 
     section ('Tools','fa-gears') {
+        item 'groovy — the Groovy command',                 'groovy',           'tools-groovy'
         item 'groovyc — the Groovy compiler',               'groovyc',          'tools-groovyc'
         item 'groovysh — the Groovy command -like shell',   'groovysh',         'groovysh'
         item 'groovyConsole — the Groovy Swing console',    'groovyconsole',    'groovy-console'
